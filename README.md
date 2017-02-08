@@ -19,27 +19,16 @@ Portfolio:https://github.com/HolyMonarch/Data-Science-Portfolio/blob/master/imag
 1.2.	Methods
 1.2.1.	feature engineering
 In the previous project, the instructor provided the SIFT features. But as feature engineering is usually the first step of a data science project, I reproduced it by using SIFT algorithm to extract features from these images. After I got over 700,000 descriptors, I selected k-means clustering as the dimensionality reduction strategy. I clustered these features into 5000 groups and use bag-of-words methods to obtain the final SIFT features. 
-
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724756/5bc6e888-ed96-11e6-9e0d-c54f542995b1.jpg)
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724744/46d2503e-ed96-11e6-8b2d-675f96a0895a.png)
 
 1.2.2.	Model
 I used SIFT features and different Machine Learning models to build the AI program. In the course, we built SVM, random forest, GBM, etc. with R. We used GBM with SIFT features as our baseline model. 
 In this portfolio, I constructed only Random Forest model with Python as an illustration, but I used the result we obtained in the course.
 After tuning model parameters, we compared the performance of ML models (SVM, Random forest, GBM, CNN) and select CNN as our final model. 
 Classifier
-GBM
-SVM
-RanForest
-CNN
-Training Time(s)
-7000
-1100
-1400
-240
-Accuracy(%)
-67
-64
-64
-94
+
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724872/3b569b88-ed97-11e6-871d-1bf15d078e26.png)
 
 
 1.3.	Results
@@ -58,7 +47,7 @@ Github: https://github.com/TZstatsADS/Fall2016-Proj2-grp5
 2.2.	Methods
 2.2.1.	Tableau for EDA
 I used Tableau for basic data analysis. It’s of efficiency and accuracy. With the data being mapped in the graph, designer could better understand our application then design the UI site. I used tableau to understand the approximate number of each tree or analyze the proportion of different problems. 
-
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724745/4910c312-ed96-11e6-94ae-1f5864565f22.png)
 
 2.2.2.	RShiny 
 I used RShiny to develop the application. The application has 4 functions:

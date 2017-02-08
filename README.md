@@ -1,7 +1,5 @@
-#Data Science Portfolio
-Wenhang Bao
-204 W 108th ST | New York, NY 10025 | (917)714-6682 | wb2304@columbia.edu
-Github: https://github.com/HolyMonarch  Linkedin: https://www.linkedin.com/in/wenhangbao
+#Data Science Portfolio 
+(The Data Science Portfolio.pdf is the most updated version)
 
 This is my data science portfolio where I present some results from my previous projects. I reproduced these project independently in a different way. If I previously used R, I would use Python in this portfolio, except for those functions that could not be substituted like CNN in Python. 
 These projects represent my skills, but not all of them. My skill set is well listed in my resume. 
@@ -55,6 +53,9 @@ I used RShiny to develop the application. The application has 4 functions:
 2.	Analysis of the negative effect
 3.	Clustering of geographical area
 4.	Text mining 
+
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724734/3fdf3f30-ed96-11e6-8668-19d8150325e3.png)
+
 So the user could use this application to know all the aspects of a specific kind of tree in New York like it’s distribution, whether if they are guarded, etc. 
 
 
@@ -72,10 +73,11 @@ Here I used the famous Kaggle dataset, Hillary Clinton’s email. Throughout 201
 3.2.1.	Word Cloud
 Here I extracted emails only related to president. Then I used Python package WordCloud to visualize the content of these emails, and try to depict keyword. 
 
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724752/50c08b42-ed96-11e6-82bf-89d9317a0db3.png)
 3.2.2.	LDA model
 I tried to fit LDA model to categorize these emails. We could notice that Topic 1 may be related with her meeting arrangement, Topic 2 may be related to international affairs, etc. 
 But also there are topics that make no sense like Topic 5. 
-
+![alt tag](https://cloud.githubusercontent.com/assets/18726647/22724742/446d1a18-ed96-11e6-89e8-875764446321.png)
 
 
 3.3.	Results

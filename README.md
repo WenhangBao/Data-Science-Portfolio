@@ -11,7 +11,7 @@ These projects represent my skills, but not all of them. My skill set is well li
 1.1.	Abstract
 The dataset is a set of 2000 images of poodle and fried chicken. The objective of this project is to create an AI program that accurately distinguish pictures of poodle dogs from pictures of fried chicken. The portability of this AI program (holding storage and running memory cost) and the computational efficiency (test running time cost) are of great concern. So the trade-off between training time and accuracy is of great significance. 
 
-![alt tag](https://raw.githubusercontent.com/HolyMonarch/Data-Science-Portfolio/tree/master/images/Poodel and Fried Chicken.jpg)
+https://cloud.githubusercontent.com/assets/18726647/22724722/2761588a-ed96-11e6-8714-445757c3f514.jpg
 
 Github: https://github.com/TZstatsADS/Fall2016-proj3-grp3
 Portfolio:https://github.com/HolyMonarch/Data-Science-Portfolio/blob/master/image%20clasifier.ipynb
